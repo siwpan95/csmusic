@@ -1,0 +1,17 @@
+# 音乐盒曲目库（1138 个 MP3，94 个专辑目录）不入库
+# —— 属资源池，按需本地保留；曲目清单见 _all_music_urls.txt（已入库）
+*.mp3
+
+# 运行环境
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# 工具/编辑器
+.DS_Store
+.vscode/
+.idea/
+*.log

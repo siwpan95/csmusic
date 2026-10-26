@@ -1,0 +1,1418 @@
+
+[无拘空间
+Floorspace]
+主菜单	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/juelz_02/main_menu.mp3
+回合MVP	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/juelz_02/round_mvp.mp3
+回合胜利	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/juelz_02/round_victory.mp3
+选择队伍	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/juelz_02/select_team.mp3
+炸弹爆炸倒计时	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/juelz_02/countdown_bomb.mp3
+炸弹安放	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/juelz_02/bomb_placement.mp3
+输掉的回合	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/juelz_02/round_failure.mp3
+死亡视角	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/juelz_02/death_perspective.mp3
+回合10秒结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/juelz_02/round_ends_10.mp3
+行动开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/juelz_02/action_begins1.mp3
+行动开始 - 2	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/juelz_02/action_begins2.mp3
+行动开始 - 3	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/juelz_02/action_begins3.mp3
+回合开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/juelz_02/turn_start1.mp3
+回合开始 - 2	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/juelz_02/turn_start2.mp3
+回合开始 - 3	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/juelz_02/turn_start3.mp3
+比赛开始	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/juelz_02/match_start.mp3
+比赛结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/juelz_02/match_end.mp3
+
+[常青
+Evergreen]
+主菜单	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/pvris_01/main_menu.mp3
+回合MVP	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/pvris_01/round_mvp.mp3
+回合胜利	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/pvris_01/round_victory.mp3
+选择队伍	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/pvris_01/select_team.mp3
+炸弹爆炸倒计时	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/pvris_01/countdown_bomb.mp3
+炸弹安放	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/pvris_01/bomb_placement.mp3
+输掉的回合	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/pvris_01/round_failure.mp3
+死亡视角	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/pvris_01/death_perspective.mp3
+回合10秒结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/pvris_01/round_ends_10.mp3
+行动开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/pvris_01/action_begins1.mp3
+行动开始 - 2	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/pvris_01/action_begins2.mp3
+行动开始 - 3	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/pvris_01/action_begins3.mp3
+回合开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/pvris_01/turn_start1.mp3
+回合开始 - 2	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/pvris_01/turn_start2.mp3
+回合开始 - 3	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/pvris_01/turn_start3.mp3
+比赛开始	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/pvris_01/match_start.mp3
+比赛结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/pvris_01/match_end.mp3
+
+[纵欲狂欢
+No Love Only Pleasure]
+主菜单	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/mediaselectiveresponse_01/main_menu.mp3
+回合MVP	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/mediaselectiveresponse_01/round_mvp.mp3
+回合胜利	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/mediaselectiveresponse_01/round_victory.mp3
+选择队伍	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/mediaselectiveresponse_01/select_team.mp3
+炸弹爆炸倒计时	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/mediaselectiveresponse_01/countdown_bomb.mp3
+炸弹安放	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/mediaselectiveresponse_01/bomb_placement.mp3
+输掉的回合	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/mediaselectiveresponse_01/round_failure.mp3
+死亡视角	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/mediaselectiveresponse_01/death_perspective.mp3
+回合10秒结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/mediaselectiveresponse_01/round_ends_10.mp3
+行动开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/mediaselectiveresponse_01/action_begins1.mp3
+行动开始 - 2	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/mediaselectiveresponse_01/action_begins2.mp3
+回合开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/mediaselectiveresponse_01/turn_start1.mp3
+回合开始 - 2	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/mediaselectiveresponse_01/turn_start2.mp3
+比赛开始	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/mediaselectiveresponse_01/match_start.mp3
+比赛结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/mediaselectiveresponse_01/match_end.mp3
+
+[星际战机速龙号
+Starship Velociraptor]
+主菜单	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jonathanyoung_01/main_menu.mp3
+回合MVP	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jonathanyoung_01/round_mvp.mp3
+回合胜利	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jonathanyoung_01/round_victory.mp3
+选择队伍	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jonathanyoung_01/select_team.mp3
+炸弹爆炸倒计时	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jonathanyoung_01/countdown_bomb.mp3
+炸弹安放	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jonathanyoung_01/bomb_placement.mp3
+输掉的回合	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jonathanyoung_01/round_failure.mp3
+死亡视角	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jonathanyoung_01/death_perspective.mp3
+回合10秒结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jonathanyoung_01/round_ends_10.mp3
+行动开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jonathanyoung_01/action_begins1.mp3
+回合开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jonathanyoung_01/turn_start1.mp3
+比赛开始	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jonathanyoung_01/match_start.mp3
+比赛结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jonathanyoung_01/match_end.mp3
+
+[猩红密室
+Red Room]
+主菜单	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/adambeyer_01/main_menu.mp3
+回合MVP	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/adambeyer_01/round_mvp.mp3
+回合胜利	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/adambeyer_01/round_victory.mp3
+选择队伍	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/adambeyer_01/select_team.mp3
+炸弹爆炸倒计时	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/adambeyer_01/countdown_bomb.mp3
+炸弹安放	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/adambeyer_01/bomb_placement.mp3
+输掉的回合	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/adambeyer_01/round_failure.mp3
+死亡视角	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/adambeyer_01/death_perspective.mp3
+回合10秒结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/adambeyer_01/round_ends_10.mp3
+行动开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/adambeyer_01/action_begins1.mp3
+行动开始 - 2	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/adambeyer_01/action_begins2.mp3
+行动开始 - 3	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/adambeyer_01/action_begins3.mp3
+回合开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/adambeyer_01/turn_start1.mp3
+回合开始 - 2	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/adambeyer_01/turn_start2.mp3
+比赛开始	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/adambeyer_01/match_start.mp3
+比赛结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/adambeyer_01/match_end.mp3
+
+[骸骨圣典
+Skeletá]
+主菜单	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ghost_01/main_menu.mp3
+回合MVP	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ghost_01/round_mvp.mp3
+回合胜利	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ghost_01/round_victory.mp3
+选择队伍	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ghost_01/select_team.mp3
+炸弹爆炸倒计时	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ghost_01/countdown_bomb.mp3
+炸弹安放	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ghost_01/bomb_placement.mp3
+输掉的回合	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ghost_01/round_failure.mp3
+死亡视角	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ghost_01/death_perspective.mp3
+回合10秒结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ghost_01/round_ends_10.mp3
+行动开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ghost_01/action_begins1.mp3
+行动开始 - 2	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ghost_01/action_begins2.mp3
+行动开始 - 3	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ghost_01/action_begins3.mp3
+回合开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ghost_01/turn_start1.mp3
+回合开始 - 2	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ghost_01/turn_start2.mp3
+回合开始 - 3	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ghost_01/turn_start3.mp3
+比赛开始	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ghost_01/match_start.mp3
+比赛结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ghost_01/match_end.mp3
+
+[迈克尔
+MICHAEL]
+主菜单	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/killermike_01/main_menu.mp3
+回合MVP	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/killermike_01/round_mvp.mp3
+回合胜利	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/killermike_01/round_victory.mp3
+选择队伍	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/killermike_01/select_team.mp3
+炸弹爆炸倒计时	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/killermike_01/countdown_bomb.mp3
+炸弹安放	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/killermike_01/bomb_placement.mp3
+输掉的回合	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/killermike_01/round_failure.mp3
+死亡视角	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/killermike_01/death_perspective.mp3
+回合10秒结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/killermike_01/round_ends_10.mp3
+行动开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/killermike_01/action_begins1.mp3
+行动开始 - 2	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/killermike_01/action_begins2.mp3
+回合开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/killermike_01/turn_start1.mp3
+回合开始 - 2	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/killermike_01/turn_start2.mp3
+比赛开始	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/killermike_01/match_start.mp3
+比赛结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/killermike_01/match_end.mp3
+
+[鼠役
+RAT WARS]
+主菜单	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/health_01/main_menu.mp3
+回合MVP	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/health_01/round_mvp.mp3
+回合胜利	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/health_01/round_victory.mp3
+选择队伍	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/health_01/select_team.mp3
+炸弹爆炸倒计时	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/health_01/countdown_bomb.mp3
+炸弹安放	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/health_01/bomb_placement.mp3
+输掉的回合	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/health_01/round_failure.mp3
+死亡视角	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/health_01/death_perspective.mp3
+回合10秒结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/health_01/round_ends_10.mp3
+行动开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/health_01/action_begins1.mp3
+行动开始 - 2	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/health_01/action_begins2.mp3
+回合开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/health_01/turn_start1.mp3
+回合开始 - 2	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/health_01/turn_start2.mp3
+比赛开始	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/health_01/match_start.mp3
+比赛结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/health_01/match_end.mp3
+
+[嚼玻璃
+Chewing Glass]
+主菜单	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jamesandthecoldgun_01/main_menu.mp3
+回合MVP	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jamesandthecoldgun_01/round_mvp.mp3
+回合胜利	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jamesandthecoldgun_01/round_victory.mp3
+选择队伍	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jamesandthecoldgun_01/select_team.mp3
+炸弹爆炸倒计时	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jamesandthecoldgun_01/countdown_bomb.mp3
+炸弹安放	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jamesandthecoldgun_01/bomb_placement.mp3
+输掉的回合	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jamesandthecoldgun_01/round_failure.mp3
+死亡视角	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jamesandthecoldgun_01/death_perspective.mp3
+回合10秒结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jamesandthecoldgun_01/round_ends_10.mp3
+行动开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jamesandthecoldgun_01/action_begins1.mp3
+行动开始 - 2	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jamesandthecoldgun_01/action_begins2.mp3
+回合开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jamesandthecoldgun_01/turn_start1.mp3
+回合开始 - 2	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jamesandthecoldgun_01/turn_start2.mp3
+比赛开始	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jamesandthecoldgun_01/match_start.mp3
+比赛结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/jamesandthecoldgun_01/match_end.mp3
+
+[腐朽香氛
+The Perfume of Decay]
+主菜单	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/tigercub_01/main_menu.mp3
+回合MVP	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/tigercub_01/round_mvp.mp3
+回合胜利	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/tigercub_01/round_victory.mp3
+选择队伍	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/tigercub_01/select_team.mp3
+炸弹爆炸倒计时	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/tigercub_01/countdown_bomb.mp3
+炸弹安放	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/tigercub_01/bomb_placement.mp3
+输掉的回合	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/tigercub_01/round_failure.mp3
+死亡视角	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/tigercub_01/death_perspective.mp3
+回合10秒结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/tigercub_01/round_ends_10.mp3
+行动开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/tigercub_01/action_begins1.mp3
+回合开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/tigercub_01/turn_start1.mp3
+比赛开始	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/tigercub_01/match_start.mp3
+比赛结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/tigercub_01/match_end.mp3
+
+[诶嘿
+Ay Hey]
+主菜单	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ayhey/main_menu.mp3
+回合MVP	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ayhey/round_mvp.mp3
+回合胜利	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ayhey/round_victory.mp3
+选择队伍	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ayhey/select_team.mp3
+炸弹爆炸倒计时	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ayhey/countdown_bomb.mp3
+炸弹安放	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ayhey/bomb_placement.mp3
+输掉的回合	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ayhey/round_failure.mp3
+死亡视角	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ayhey/death_perspective.mp3
+回合10秒结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ayhey/round_ends_10.mp3
+行动开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ayhey/action_begins1.mp3
+回合开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ayhey/turn_start1.mp3
+回合开始 - 2	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ayhey/turn_start2.mp3
+比赛开始	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ayhey/match_start.mp3
+比赛结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ayhey/match_end.mp3
+
+[恶魔舞厅
+The Devil Went Clubbing in Georgia]
+主菜单	https://img.dota2.com.cn/dota2static/file/8ecacce8-a8a3-44d4-9b0c-0662ce6017ba.mp3
+回合MVP	https://img.dota2.com.cn/dota2static/file/7a95337e-b84e-44f0-9f02-cf4e0775b257.mp3
+回合胜利	https://img.dota2.com.cn/dota2static/file/1760c05a-02d6-4967-8ab6-6ae29e987a49.mp3
+选择队伍	https://img.dota2.com.cn/dota2static/file/73209484-1405-411b-87c8-c617ccc200b3.mp3
+炸弹爆炸倒计时	https://img.dota2.com.cn/dota2static/file/8b01297c-f6da-4828-a02b-814237666127.mp3
+炸弹安放	https://img.dota2.com.cn/dota2static/file/6645927f-70c6-4017-8f23-9102a967d6fc.mp3
+输掉的回合	https://img.dota2.com.cn/dota2static/file/24699b47-7198-4d4b-b7e7-2eb2b8c0a55e.mp3
+死亡视角	https://img.dota2.com.cn/dota2static/file/b189dded-ae6f-48c1-baa6-dc8feb7a78ba.mp3
+回合10秒结束	https://img.dota2.com.cn/dota2static/file/4ad73bc3-a697-4bda-b3bd-79a0a090be94.mp3
+行动开始 - 1	https://img.dota2.com.cn/dota2static/file/7eeecea6-8b5c-4c85-8866-850b555a2950.mp3
+行动开始 - 2	https://img.dota2.com.cn/dota2static/file/dc968014-cf25-400f-835f-e8c9c5732b62.mp3
+回合开始 - 1	https://img.dota2.com.cn/dota2static/file/71c58d04-8a22-435d-aa62-34e869831965.mp3
+回合开始 - 2	https://img.dota2.com.cn/dota2static/file/17d225dd-747f-4273-9638-439f7a449fc0.mp3
+对局开始	https://img.dota2.com.cn/dota2static/file/f8ce484e-0827-46dd-92e4-1b3e8e88f1c2.mp3
+对局结束	https://img.dota2.com.cn/dota2static/file/d39559db-832f-47a7-88e5-c4afb342ea79.mp3
+
+[恶魔油漆刷
+Devil's Paintbrush]
+主菜单	https://img.dota2.com.cn/dota2static/file/24bd7155-78e2-4939-9669-e56bb1083a4d.mp3
+回合MVP	https://img.dota2.com.cn/dota2static/file/eb42b811-6cc1-4db1-b43f-c13c1044e3dd.mp3
+回合胜利	https://img.dota2.com.cn/dota2static/file/574af9f2-244c-4864-a277-b4f5f7098f42.mp3
+选择队伍	https://img.dota2.com.cn/dota2static/file/143e2633-98e1-4cbf-af49-07acd0f2c915.mp3
+炸弹爆炸倒计时	https://img.dota2.com.cn/dota2static/file/0f95a567-b2d6-4196-ac70-08f8da46d362.mp3
+炸弹安放	https://img.dota2.com.cn/dota2static/file/6b8d0116-6e66-4155-a7ab-769487d4c1b3.mp3
+输掉的回合	https://img.dota2.com.cn/dota2static/file/1ddff6a6-4c91-4a0a-8d1a-7935b339abc5.mp3
+死亡视角	https://img.dota2.com.cn/dota2static/file/42f09750-f8cc-4cd1-8c46-43568e1977db.mp3
+回合10秒结束	https://img.dota2.com.cn/dota2static/file/2d77ae4c-e3fd-4885-9791-a611128adf88.mp3
+行动开始 - 1	https://img.dota2.com.cn/dota2static/file/f9a2c121-0f38-4b94-b817-1bdd31236e1a.mp3
+行动开始 - 2	https://img.dota2.com.cn/dota2static/file/bd5e767c-c659-4b64-827a-61b976172215.mp3
+行动开始 - 3	https://img.dota2.com.cn/dota2static/file/2b871ba1-e62c-4b57-96d1-0126c4ceeb70.mp3
+回合开始 - 1	https://img.dota2.com.cn/dota2static/file/c51c3755-f126-4bb0-a6a4-a24f67cfc895.mp3
+回合开始 - 2	https://img.dota2.com.cn/dota2static/file/b5a9e3e2-c6e2-431c-8c28-decb2b24c9c9.mp3
+回合开始 - 3	https://img.dota2.com.cn/dota2static/file/3ac3f3fc-6dce-4935-8dfd-c697ccd31e9f.mp3
+对局开始	https://img.dota2.com.cn/dota2static/file/b378cf52-abc9-4fe5-b9be-f33f4896b755.mp3
+对局结束	https://img.dota2.com.cn/dota2static/file/daab0b81-d67d-42d5-81ea-236f62dd980d.mp3
+
+[咖啡！加非！磕肥！
+Coffee! Kofe! Kahveh!]
+主菜单	https://img.dota2.com.cn/dota2static/file/ffc55db5-9f92-47cf-ba11-b0ceeba3c7c3.mp3
+回合MVP	https://img.dota2.com.cn/dota2static/file/5be5facc-8829-4dc8-8921-625cd452468a.mp3
+回合胜利	https://img.dota2.com.cn/dota2static/file/5caa75f8-6248-441f-b476-378173da5c02.mp3
+选择队伍	https://img.dota2.com.cn/dota2static/file/ea6aae76-1e36-4b9a-9edc-add7bde5e8e2.mp3
+炸弹爆炸倒计时	https://img.dota2.com.cn/dota2static/file/c698992c-dc0d-4f5e-aef1-3b6e22b59b3e.mp3
+炸弹安放	https://img.dota2.com.cn/dota2static/file/72fe7fdd-44c9-4644-9017-839c5de8869f.mp3
+输掉的回合	https://img.dota2.com.cn/dota2static/file/7e7b0a75-b137-434a-a971-78d97e940893.mp3
+死亡视角	https://img.dota2.com.cn/dota2static/file/de964a53-5b5c-4d10-8a34-e45b6c5f8e05.mp3
+回合10秒结束	https://img.dota2.com.cn/dota2static/file/7c06f7b4-01d7-48de-9eae-29494cc513ce.mp3
+行动开始 - 1	https://img.dota2.com.cn/dota2static/file/13f51c36-8a28-4f2e-9883-bf9a217e3d0e.mp3
+行动开始 - 2	https://img.dota2.com.cn/dota2static/file/d54c030c-dd9e-40f0-b8c9-1717a3c6b543.mp3
+行动开始 - 3	https://img.dota2.com.cn/dota2static/file/d85c0afb-e45e-437d-b0d3-40b6d19feb3a.mp3
+回合开始 - 1	https://img.dota2.com.cn/dota2static/file/35023044-61f8-4360-b2c2-57f096aa22a7.mp3
+回合开始 - 2	https://img.dota2.com.cn/dota2static/file/32461c2a-485d-47a9-b67d-e35414c0c13b.mp3
+回合开始 - 3	https://img.dota2.com.cn/dota2static/file/447cf90e-ab3f-4754-8d43-04aec53c2932.mp3
+对局开始	https://img.dota2.com.cn/dota2static/file/25433d7a-d1e0-4b2f-a22f-e98c05530abe.mp3
+对局结束	https://img.dota2.com.cn/dota2static/file/aec3b758-fda8-44a1-b29a-d20d04f799a4.mp3
+
+[柒月
+Seventh Moon]
+主菜单	https://img.dota2.com.cn/dota2static/file/31a26421-6cda-4cd2-b1e6-9a3993adef37.mp3
+回合MVP	https://img.dota2.com.cn/dota2static/file/23780cb8-58ba-4f4f-9b1a-eae34f5f2842.mp3
+回合胜利	https://img.dota2.com.cn/dota2static/file/8f3a0946-c992-4672-88ae-0f8d746736da.mp3
+选择队伍	https://img.dota2.com.cn/dota2static/file/d86960c0-c69a-479f-a6a9-cc56064f8553.mp3
+炸弹爆炸倒计时	https://img.dota2.com.cn/dota2static/file/70fe47d9-d5df-4021-a507-c3544e11698a.mp3
+炸弹安放	https://img.dota2.com.cn/dota2static/file/461786d3-fc90-4a91-a2ff-b907aaf4456a.mp3
+输掉的回合	https://img.dota2.com.cn/dota2static/file/cba7fd9c-24eb-45d9-b70e-04a1e89caf5c.mp3
+死亡视角	https://img.dota2.com.cn/dota2static/file/f9c90fe0-88c7-4571-a032-39ff6faacad8.mp3
+回合10秒结束	https://img.dota2.com.cn/dota2static/file/6014ef19-844f-436d-a00d-94634b37cc9b.mp3
+行动开始	https://img.dota2.com.cn/dota2static/file/569378a7-ef55-46c2-ae9e-bf32426048b7.mp3
+回合开始 - 1	https://img.dota2.com.cn/dota2static/file/d8bf3e8c-7986-4f7f-b4db-8a9590f4ed8b.mp3
+回合开始 - 2	https://img.dota2.com.cn/dota2static/file/69eb777e-b681-49c2-9b76-4e940dfed75b.mp3
+对局开始	https://img.dota2.com.cn/dota2static/file/585a58a7-30eb-4154-843e-6f99ed802e14.mp3
+对局结束	https://img.dota2.com.cn/dota2static/file/f52a084c-a341-4d9d-af26-c9b02a678766.mp3
+
+[特工
+Agency]
+主菜单	https://img.dota2.com.cn/dota2static/file/d0cf201a-07c5-481d-a878-b39c9b8138f0.mp3
+回合MVP	https://img.dota2.com.cn/dota2static/file/bc80d05c-916d-4fbf-ad6f-54505525472d.mp3
+回合胜利	https://img.dota2.com.cn/dota2static/file/63036c3a-1d0f-4e8c-b531-ece870ea140c.mp3
+选择队伍	https://img.dota2.com.cn/dota2static/file/72ecefac-5623-4718-9e44-b48a60a3a4b7.mp3
+炸弹爆炸倒计时	https://img.dota2.com.cn/dota2static/file/3677d6a9-3603-451c-a9a0-cafb8dde8ad3.mp3
+炸弹安放	https://img.dota2.com.cn/dota2static/file/38ee55e3-4899-41dc-8f79-a36b61cd2e6a.mp3
+输掉的回合	https://img.dota2.com.cn/dota2static/file/0265e296-dcc1-44f3-88bb-c9feb49a0fb1.mp3
+死亡视角	https://img.dota2.com.cn/dota2static/file/090dd5dd-aefc-4c4c-9283-b9ebeeafd9a8.mp3
+回合10秒结束	https://img.dota2.com.cn/dota2static/file/71199f82-c809-4896-ac85-c033a4d3886a.mp3
+行动开始 - 1	https://img.dota2.com.cn/dota2static/file/9dd15baa-febd-4a68-add2-64fde45b5443.mp3
+行动开始 - 2	https://img.dota2.com.cn/dota2static/file/cbf6c151-a3f8-44df-9361-4471040155b3.mp3
+行动开始 - 3	https://img.dota2.com.cn/dota2static/file/2be24294-f9fb-48bb-afb4-174b038ca9ef.mp3
+回合开始 - 1	https://img.dota2.com.cn/dota2static/file/d3882b5d-0d4a-45ed-a290-accb8b62360b.mp3
+回合开始 - 2	https://img.dota2.com.cn/dota2static/file/a53c6d80-e7f1-4ebe-8208-fca66ccd8a66.mp3
+回合开始 - 3	https://img.dota2.com.cn/dota2static/file/dd6bb6be-1726-4f49-86e8-1c651a2fd7c4.mp3
+对局开始	https://img.dota2.com.cn/dota2static/file/969d1c2b-e0f7-4158-85c6-1f601561c8e0.mp3
+对局结束	https://img.dota2.com.cn/dota2static/file/1d0e78e0-506b-4a84-8608-86a806428ec5.mp3
+
+[兔子洞
+Rabbit Hole]
+主菜单	https://img.dota2.com.cn/dota2static/file/5c346da2-a600-4969-ae24-20a5d4021bdb.mp3
+回合MVP	https://img.dota2.com.cn/dota2static/file/94fbff9f-d4f8-435b-90bd-35e5584ca45d.mp3
+回合胜利	https://img.dota2.com.cn/dota2static/file/77961038-8167-462d-a1af-04c4cdcc0418.mp3
+选择队伍	https://img.dota2.com.cn/dota2static/file/ab93a7e8-5298-4862-ad30-e4b4a54c7ac5.mp3
+炸弹爆炸倒计时	https://img.dota2.com.cn/dota2static/file/9e4778f9-a182-43f7-bdd7-d185bfedef0b.mp3
+炸弹安放	https://img.dota2.com.cn/dota2static/file/98f7ab45-1686-4ac2-8a59-5d97a09dbca7.mp3
+输掉的回合	https://img.dota2.com.cn/dota2static/file/df7ad3cf-bbcd-430b-8a45-db1fd4fae6c8.mp3
+死亡视角	https://img.dota2.com.cn/dota2static/file/2634865f-be24-45a3-9276-10e160189ff1.mp3
+回合10秒结束	https://img.dota2.com.cn/dota2static/file/8170d6a4-cc8b-4bee-bd59-cabe2598516e.mp3
+行动开始 - 1	https://img.dota2.com.cn/dota2static/file/ae9c63ac-bb4c-48fd-90ea-0bd666ad73c9.mp3
+行动开始 - 2	https://img.dota2.com.cn/dota2static/file/eb5c457c-0672-49a5-bfb4-65e98465ea4f.mp3
+回合开始 - 1	https://img.dota2.com.cn/dota2static/file/43fef489-4063-4a43-99a1-32f2f08d9a5d.mp3
+回合开始 - 2	https://img.dota2.com.cn/dota2static/file/001242c0-c8a1-48a4-bd32-6c01c0551f49.mp3
+对局开始	https://img.dota2.com.cn/dota2static/file/a75f45f5-b218-4158-96fc-3edf5cfb4ae2.mp3
+对局结束	https://img.dota2.com.cn/dota2static/file/0fa4a021-e62e-465c-aa4b-361671bbcb87.mp3
+
+[危在旦夕
+Clutch]
+主菜单	https://img.dota2.com.cn/dota2static/file/9706c0ba-0da2-4b1a-8370-2f01d675dc8a.mp3
+回合MVP	https://img.dota2.com.cn/dota2static/file/96f11eee-1202-492e-b274-b0957b697ef6.mp3
+回合胜利	https://img.dota2.com.cn/dota2static/file/c2b8effd-a41f-4e5e-8da3-9fd85231858d.mp3
+选择队伍	https://img.dota2.com.cn/dota2static/file/fc2da010-35c2-4e2f-8b50-d55b2123b0b0.mp3
+炸弹爆炸倒计时	https://img.dota2.com.cn/dota2static/file/7acefc42-b6ff-44be-9b23-77735c8f7ec1.mp3
+炸弹安放	https://img.dota2.com.cn/dota2static/file/2c2544e4-bfb6-4b60-87af-0f89f6b31f45.mp3
+输掉的回合	https://img.dota2.com.cn/dota2static/file/5f6df59c-7ac2-4a2a-bda8-feeca962aee6.mp3
+死亡视角	https://img.dota2.com.cn/dota2static/file/76d97f81-8f54-4669-8790-80dee2aa8b76.mp3
+回合10秒结束	https://img.dota2.com.cn/dota2static/file/11bc5a33-d242-4627-bedf-a7962feeb15a.mp3
+行动开始 - 1	https://img.dota2.com.cn/dota2static/file/151fbbec-b312-4558-a24c-6d7e351e698e.mp3
+行动开始 - 2	https://img.dota2.com.cn/dota2static/file/9949fa48-bea9-4589-b6ad-55ca8039efac.mp3
+行动开始 - 3	https://img.dota2.com.cn/dota2static/file/1074423d-0a24-4f51-b071-2017c5f8a57d.mp3
+回合开始 - 1	https://img.dota2.com.cn/dota2static/file/1caa96ca-d47e-4991-957c-96aa1f8e94ce.mp3
+回合开始 - 2	https://img.dota2.com.cn/dota2static/file/e954a983-8acc-47fa-ae64-c412f66e8be0.mp3
+回合开始 - 3	https://img.dota2.com.cn/dota2static/file/8a3f9630-e6d9-408b-98ac-b2ad96193416.mp3
+对局开始	https://img.dota2.com.cn/dota2static/file/222b1964-a043-4c58-a2a1-3e52d0dc07e4.mp3
+对局结束	https://img.dota2.com.cn/dota2static/file/9ff80712-71ba-4f49-8aa1-150124e88aa5.mp3
+
+[致命一击
+Dead Shot]
+主菜单	https://img.dota2.com.cn/dota2static/file/53729785-7140-40ea-bfaf-91c9a7c6f795.mp3
+回合MVP	https://img.dota2.com.cn/dota2static/file/dccf5993-eea7-40ff-8701-02a0e1a570cf.mp3
+回合胜利	https://img.dota2.com.cn/dota2static/file/7b0c0a35-7994-42a1-bb64-adbbfa845928.mp3
+选择队伍	https://img.dota2.com.cn/dota2static/file/ea8854eb-ada8-4960-bb34-441a123dc58c.mp3
+炸弹爆炸倒计时	https://img.dota2.com.cn/dota2static/file/6438b5cf-b088-449a-ab03-0ca0d2842ea6.mp3
+炸弹安放	https://img.dota2.com.cn/dota2static/file/e47a8804-c941-4253-8ec6-a123b01cddbf.mp3
+输掉的回合	https://img.dota2.com.cn/dota2static/file/3dfd53a8-a05e-42be-afff-b96e49f432e3.mp3
+死亡视角	https://img.dota2.com.cn/dota2static/file/44e9559e-208e-4ccf-adae-90c755f880a7.mp3
+回合10秒结束	https://img.dota2.com.cn/dota2static/file/4d4b5400-ecac-48b6-9e6e-e2418bc486f2.mp3
+行动开始	https://img.dota2.com.cn/dota2static/file/f74d6763-8da6-420d-a1a2-af7526dd60d0.mp3
+回合开始	https://img.dota2.com.cn/dota2static/file/d8f2a16b-e484-40d2-8add-55ee1a87cae5.mp3
+对局开始	https://img.dota2.com.cn/dota2static/file/872631d9-7006-42c6-af2d-809a9c83acc7.mp3
+对局结束	https://img.dota2.com.cn/dota2static/file/25027c9d-bbfd-4623-a578-f973c396981b.mp3
+
+[万众瞩目
+Under Bright Lights]
+行动开始-1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/under_bright_lights/under_bright_lights_action_begins1.mp3
+回合10秒结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/under_bright_lights/under_bright_lights_round_ends_10.mp3
+回合MVP	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/under_bright_lights/under_bright_lights_round_mvp.mp3
+回合开始-1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/under_bright_lights/under_bright_lights_turn_start1.mp3
+回合胜利	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/under_bright_lights/under_bright_lights_round_victory.mp3
+回合失败	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/under_bright_lights/under_bright_lights_round_failure.mp3
+死亡视角	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/under_bright_lights/under_bright_lights_death_perspective.mp3
+选择队伍	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/under_bright_lights/under_bright_lights_select_team.mp3
+炸弹安放	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/under_bright_lights/under_bright_lights_bomb_placement.mp3
+炸弹爆炸倒计时	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/under_bright_lights/under_bright_lights_countdown_bomb.mp3
+主菜单	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/under_bright_lights/under_bright_lights_main_menu.mp3
+
+[通宵达旦
+All Night]
+行动开始-1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/all_night/all_night_action_begins1.mp3
+回合10秒结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/all_night/all_night_round_ends_10.mp3
+回合MVP	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/all_night/all_night_round_mvp.mp3
+回合开始-1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/all_night/all_night_turn_start1.mp3
+回合胜利	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/all_night/all_night_round_victory.mp3
+回合失败	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/all_night/all_night_round_failure.mp3
+死亡视角	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/all_night/all_night_death_perspective.mp3
+选择队伍	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/all_night/all_night_select_team.mp3
+炸弹安放	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/all_night/all_night_bomb_placement.mp3
+炸弹爆炸倒计时	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/all_night/all_night_countdown_bomb.mp3
+主菜单	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/all_night/all_night_main_menu.mp3
+
+[非人类
+inhuman]
+行动开始-1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/inhuman/inhuman_action_begins1.mp3
+回合10秒结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/inhuman/inhuman_round_ends_10.mp3
+回合MVP	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/inhuman/inhuman_round_mvp.mp3
+回合开始-1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/inhuman/inhuman_turn_start1.mp3
+回合胜利	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/inhuman/inhuman_round_victory.mp3
+回合失败	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/inhuman/inhuman_round_failure.mp3
+死亡视角	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/inhuman/inhuman_death_perspective.mp3
+选择队伍	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/inhuman/inhuman_select_team.mp3
+炸弹安放	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/inhuman/inhuman_bomb_placement.mp3
+炸弹爆炸倒计时	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/inhuman/inhuman_countdown_bomb.mp3
+主菜单	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/inhuman/inhuman_main_menu.mp3
+
+[燥起来！
+Make U SWEAT!]
+行动开始-1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/make_u_sweat/make_u_sweat_action_begins1.mp3
+回合10秒结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/make_u_sweat/make_u_sweat_round_ends_10.mp3
+回合MVP	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/make_u_sweat/make_u_sweat_round_mvp.mp3
+回合开始-1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/make_u_sweat/make_u_sweat_turn_start1.mp3
+回合胜利	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/make_u_sweat/make_u_sweat_round_victory.mp3
+回合失败	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/make_u_sweat/make_u_sweat_round_failure.mp3
+死亡视角	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/make_u_sweat/make_u_sweat_death_perspective.mp3
+选择队伍	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/make_u_sweat/make_u_sweat_select_team.mp3
+炸弹安放	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/make_u_sweat/make_u_sweat_bomb_placement.mp3
+炸弹爆炸倒计时	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/make_u_sweat/make_u_sweat_countdown_bomb.mp3
+主菜单	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/make_u_sweat/make_u_sweat_main_menu.mp3
+
+[触摸能量
+Feel The Power]
+行动开始-1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/feel_the_power/feel_the_power_action_begins1.mp3
+回合10秒结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/feel_the_power/feel_the_power_round_ends_10.mp3
+回合MVP	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/feel_the_power/feel_the_power_round_mvp.mp3
+回合开始-1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/feel_the_power/feel_the_power_turn_start1.mp3
+回合胜利	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/feel_the_power/feel_the_power_round_victory.mp3
+回合失败	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/feel_the_power/feel_the_power_round_failure.mp3
+死亡视角	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/feel_the_power/feel_the_power_death_perspective.mp3
+选择队伍	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/feel_the_power/feel_the_power_select_team.mp3
+炸弹安放	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/feel_the_power/feel_the_power_bomb_placement.mp3
+炸弹爆炸倒计时	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/feel_the_power/feel_the_power_countdown_bomb.mp3
+主菜单	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/feel_the_power/feel_the_power_main_menu.mp3
+
+[理由
+Reason]
+行动开始-1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/reason/reason_action_begins1.mp3
+回合10秒结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/reason/reason_round_ends_10.mp3
+回合MVP	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/reason/reason_round_mvp.mp3
+回合开始-1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/reason/reason_turn_start1.mp3
+回合胜利	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/reason/reason_round_victory.mp3
+回合失败	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/reason/reason_round_failure.mp3
+死亡视角	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/reason/reason_death_perspective.mp3
+选择队伍	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/reason/reason_select_team.mp3
+炸弹安放	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/reason/reason_bomb_placement.mp3
+炸弹爆炸倒计时	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/reason/reason_countdown_bomb.mp3
+主菜单	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/reason/reason_main_menu.mp3
+
+[终极
+ULTIMATE]
+行动开始-1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ultimate/ultimate_action_begins1.mp3
+行动开始-2	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ultimate/ultimate_action_begins2.mp3
+回合10秒结束	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ultimate/ultimate_round_ends_10.mp3
+回合MVP	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ultimate/ultimate_round_mvp.mp3
+回合开始-1	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ultimate/ultimate_turn_start1.mp3
+回合开始-2	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ultimate/ultimate_turn_start2.mp3
+回合胜利	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ultimate/ultimate_round_victory.mp3
+回合失败	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ultimate/ultimate_round_failure.mp3
+死亡视角	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ultimate/ultimate_death_perspective.mp3
+选择队伍	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ultimate/ultimate_select_team.mp3
+炸弹安放	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ultimate/ultimate_bomb_placement.mp3
+炸弹爆炸倒计时	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ultimate/ultimate_countdown_bomb.mp3
+主菜单	https://static.pwesports.cn/esportsadmin/CSGO/csgomedia/media/ultimate/ultimate_main_menu.mp3
+
+[花脸
+Hua Lian (Painted Face)]
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/659e4671-dc34-4996-a59e-f7f4b343e276.mp3
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/640fc795-6ce6-4dd6-b2a4-46cd319c4684.mp3
+回合开始 - 1	https://img.csgo.com.cn/csgostatic/csgo/179f521d-80cd-498b-82d2-749860aecdd8.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/0fed0876-f009-4eb2-98ee-3cca856b8271.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/0b6247b2-7674-4b53-9c2f-95f300909000.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/83204131-b2bd-4942-8e76-6c1fa2847bed.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/37e86c98-57c9-4ee0-bcc8-7e38a39583a8.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/2a65688e-02ec-433d-b5e0-f8c53c62886e.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/980fdaf6-b009-4c26-b978-d6c0df6e0bac.mp3
+输掉的回合	https://img.csgo.com.cn/csgostatic/csgo/901ff196-f20a-4a9c-b9f8-7a83e3e940db.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/57f6365a-4846-45bc-8198-0772dfa5e8c5.mp3
+
+[困兽
+Lock Me Up]
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/8d137745-a957-4d38-97c5-b2515c376a36.mp3
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/a9fb3a2d-75b1-47e6-9c29-8b63850fe4e6.mp3
+回合开始 - 1	https://img.csgo.com.cn/csgostatic/csgo/a1cfc8ce-ace8-4ae0-99b8-037f28687bab.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/ef9ddaf3-f095-45d7-8d51-ffb543ee00a2.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/8cb10dd2-9c5c-4d7c-a775-1fa489a6b0eb.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/6b5b7537-0360-491f-8528-6cf2c6cbf935.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/8cad41ee-7bed-4738-8250-9929ecf24ec9.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/9492c3e6-e342-4a5a-b42f-6142c3ca3e99.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/143bfb45-04cc-4d32-95ca-a4c7402b6a04.mp3
+输掉的回合	https://img.csgo.com.cn/csgostatic/csgo/ba09fff8-b324-4900-9a24-0ca62383f5e3.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/c9a02c6a-813f-4a9e-b5b0-841e2da6fe46.mp3
+
+[哥特浮华
+Gothic Luxury]
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/e0248de5-08da-42d7-826c-686a4415b878.mp3
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/5638b6fb-8586-4dcb-9577-febc47cc5a87.mp3
+行动开始-2	https://img.csgo.com.cn/csgostatic/csgo/6b377886-410b-4274-aaab-0acbd8c8ca14.mp3
+回合开始 - 1	https://img.csgo.com.cn/csgostatic/csgo/161aa270-9dde-40d5-94b5-991f74a4fa9b.mp3
+回合开始 - 2	https://img.csgo.com.cn/csgostatic/csgo/cc686bc8-ef84-4a5e-bbef-de7d58440acc.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/b82b745f-b717-423f-93c5-5989465e9eac.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/df2c6d37-e653-499c-9df3-c9fbef7c69f2.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/2e2f4aa4-6541-4b5b-9dd1-8580a6490ad0.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/b1a1063b-7fa7-4319-9b6c-dfe3fa905af7.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/61b8fda8-516b-40ec-90a7-64b690ff94ec.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/e7140ded-c929-437b-bbdc-453761f0cc3c.mp3
+输掉的回合	https://img.csgo.com.cn/csgostatic/csgo/db2504f4-e1e5-46d8-8146-1feffc0bfecd.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/514c86d1-b4cc-4848-aae6-53016a943b8a.mp3
+
+[冲击星
+dashstar*]
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/1a957df6-a1b8-4be8-8295-2c74d321a38c.mp3
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/4e7a9148-8ddb-4735-98db-aefea9213edf.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/84e8770f-94b0-45c2-8665-7bf75c832df0.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/d95416fb-75c0-4774-9ba8-c966609965c6.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/2e880b1f-8d03-4963-84bc-e52f527504b1.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/a1fdac3a-ba9a-4ab0-ac66-873dbf5e53b5.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/8da4b7c9-32c1-42f4-bef0-c2fdf7641456.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/84fd7481-632b-4298-9ee4-6e452c0a574c.mp3
+输掉的回合	https://img.csgo.com.cn/csgostatic/csgo/8cf29899-0824-4767-9cfb-8e2f7e55806b.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/f2f0cf4b-943a-4a30-a42b-62e945975541.mp3
+
+[神枪手
+Shooters]
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/4075d9e2-21ee-48f0-8dd0-4d1501e68eb1.mp3
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/55d874f1-3919-45f4-8720-f821416e9cb3.mp3
+回合开始 - 1	https://img.csgo.com.cn/csgostatic/csgo/3ed2247c-90dc-47bb-8383-ffae3f307fa3.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/2665f113-c4fc-4bc8-8bb3-e01cfe09273b.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/f92a1839-cf87-4ed6-ac89-c353461077f2.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/fec046a4-bcde-4dd4-9919-b17b05bfd297.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/502df872-528e-477a-a7e3-a201e67d8800.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/79380252-b6e3-47a2-b4ed-3882d3120a0c.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/c1dfb9fb-5acc-427c-85a6-815f1d61690a.mp3
+输掉的回合	https://img.csgo.com.cn/csgostatic/csgo/aa0533ba-5d2e-4d7d-be24-523d7fe31266.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/0641828c-bab7-4311-9779-2baded729eba.mp3
+
+[虚空
+Void]
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/6fa8561e-f15c-4e28-b9f5-c1de9605807c.mp3
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/70ff0e72-011b-4956-959d-263387c37d62.mp3
+行动开始-2	https://img.csgo.com.cn/csgostatic/csgo/ff26eb00-959f-4495-a11d-94815e7524ae.mp3
+回合开始 - 1	https://img.csgo.com.cn/csgostatic/csgo/3fa595fa-08b7-4ae7-9491-e8289ba47cb3.mp3
+回合开始 - 2	https://img.csgo.com.cn/csgostatic/csgo/fa771e55-c9da-40e8-8a9f-1c81d4f3e2c0.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/6d0dc3c7-e2ea-4be8-8d48-6afd5bbc11e5.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/51e3f98b-c7e8-4f19-8e28-5c85b743889f.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/620b23f0-1388-46fe-b6ec-84518debb76c.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/19b1452b-ba4e-46ef-9a46-d0e5edcfb7da.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/948294d1-e53d-46f6-8586-6eb5c7f6d414.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/bbeae162-53ad-41ea-9837-3505dfd2d3bb.mp3
+输掉的回合	https://img.csgo.com.cn/csgostatic/csgo/c8198e20-01ad-4cfd-a5c9-0f704019c97e.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/863e822c-51d4-406d-86f2-4ee5f8fa48ed.mp3
+
+[追溯起源
+Heading for the Source]
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/768a4143-5e16-4d56-a3dc-8d8d73626afc.mp3
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/e07b91a5-8394-4eae-bb2b-fa70ac85a5e7.mp3
+行动开始-2	https://img.csgo.com.cn/csgostatic/csgo/b7bbee75-42e8-4d03-a39b-31521fb5648c.mp3
+回合开始 - 1	https://img.csgo.com.cn/csgostatic/csgo/a3ada7db-5015-428a-9450-6e6cf4d96aa6.mp3
+回合开始 - 2	https://img.csgo.com.cn/csgostatic/csgo/5d517547-b537-4f38-a8f0-de9dcfb49a6c.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/b93a2b8b-52ae-4f74-b178-98abf3a17bf4.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/e59931e9-b7fc-41c5-9ebd-60ba347b93a5.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/95172696-e1fa-4486-9a2e-83d93e37e987.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/60c9422c-16d7-4392-8b8f-16a4b30d95d7.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/bc495246-966e-4fba-bdc9-5bf384adda44.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/085f22f8-e7cc-4ee0-8197-987d40e99b16.mp3
+输掉的回合	https://img.csgo.com.cn/csgostatic/csgo/afafe56c-81fa-4eb3-a48d-4816dc472cf9.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/a6439ecd-43e5-42c8-a458-f99c9f137650.mp3
+
+[闪光舞
+Flasbang Dance]
+主菜单	https://static.pwesports.cn/esportsadmin/CSGO/media/flasbang_dance/mainmenu.mp3
+行动开始-1	https://static.pwesports.cn/esportsadmin/CSGO/media/flasbang_dance/dren_action_begins1.mp3
+回合开始 - 1	https://static.pwesports.cn/esportsadmin/CSGO/media/flasbang_dance/startround_01.mp3
+回合10秒结束	https://static.pwesports.cn/esportsadmin/CSGO/media/flasbang_dance/roundtenseccount.mp3
+回合MVP	https://static.pwesports.cn/esportsadmin/CSGO/media/flasbang_dance/roundmvpanthem.mp3
+回合胜利	https://static.pwesports.cn/esportsadmin/CSGO/media/flasbang_dance/wonround.mp3
+选择队伍	https://static.pwesports.cn/esportsadmin/CSGO/media/flasbang_dance/chooseteam.mp3
+炸弹爆炸倒计时	https://static.pwesports.cn/esportsadmin/CSGO/media/flasbang_dance/bombtenseccount.mp3
+炸弹安放	https://static.pwesports.cn/esportsadmin/CSGO/media/flasbang_dance/bombplanted.mp3
+输掉的回合	https://static.pwesports.cn/esportsadmin/CSGO/media/flasbang_dance/lostround.mp3
+死亡视角	https://static.pwesports.cn/esportsadmin/CSGO/media/flasbang_dance/deathcam.mp3
+
+[你急了！
+u mad!]
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/bd41d42f-fb5f-4aff-8316-3e85ee5db624.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/0466da3b-ebdc-4fde-8604-93dbd0d5356f.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/cb9dcbc4-6167-499f-85d1-04b03e667e3a.mp3
+输掉的回合	https://img.csgo.com.cn/csgostatic/csgo/0cded2b2-1576-4bb0-b6e0-4805cf4a9f5e.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/da7f2834-1de3-4338-90bb-a7ba05c50f73.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/324ce929-c096-430e-88aa-a6c7bd3de95c.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/b74a9d6e-e95e-4e6f-a395-cae2826f1f77.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/bb957431-6865-4a5e-a2f7-0d75e44eecf3.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/4c4fc2af-aebe-4c30-994f-3bea28470310.mp3
+
+[蜂鸟
+KOLIBRI]
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/34f022e3-0545-4b73-9ba3-e5c6fd7116fe.mp3
+行动开始-2	https://img.csgo.com.cn/csgostatic/csgo/a201b1d3-dfc2-458f-8b02-32e27dcde226.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/ffd2ea18-9b81-4553-a2ef-a4b73f79155b.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/ace02dda-1ff3-49ec-abdb-5b830116173e.mp3
+回合开始-1	https://img.csgo.com.cn/csgostatic/csgo/d64b08a3-d507-40f9-aa3f-2d3f53f45ad7.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/1f75c868-d581-4e94-bf6d-98c30e279324.mp3
+输掉的回合	https://img.csgo.com.cn/csgostatic/csgo/73a061a3-32b0-45a9-ab96-03693fa63fa0.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/4a4f8a79-4695-44fb-9b05-9f60e8322609.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/5c694c84-1c64-4c4a-8a9b-6ef8d51267bf.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/9518d5d7-5d14-4747-a415-e220f988f9e8.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/32f58e63-112d-4609-8baa-0f28f07c4c79.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/a1dba30d-2017-49d4-9170-45b6ee5da1ed.mp3
+
+[好好干，好好活
+Work Hard, Play Hard]
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/d6ff6f91-9969-4ffd-945e-4078ada05b24.mp3
+行动开始-2	https://img.csgo.com.cn/csgostatic/csgo/2458e469-e559-4783-ab93-796a5c965a2d.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/a0552564-dc2c-4968-abc7-a34a9cb542b9.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/a6f7fa56-7984-474f-9079-f3ce4e473434.mp3
+回合开始-1	https://img.csgo.com.cn/csgostatic/csgo/5577e496-a00e-4c5e-86ec-f6a9ce8e5f03.mp3
+回合开始-2	https://img.csgo.com.cn/csgostatic/csgo/f747a9f8-a148-4b0d-88d6-4629932e8718.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/1b77b764-c4a6-4b6e-8b0c-ee391efebf86.mp3
+输掉的回合	https://img.csgo.com.cn/csgostatic/csgo/8dacba50-08b0-4c36-a929-162b13e7d4da.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/ef292369-d2b4-4b83-988c-53486e0564f1.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/5bf58b67-e93d-49d7-b13c-125be1c23107.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/f8db2e7f-d3de-43bf-ac0f-95732ea887af.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/42b211e8-af44-4bd6-90ae-707f84916689.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/e7ca7323-63d0-418c-9306-93d3f9740563.mp3
+
+[黄色魔法
+~Yellow Magic~]
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/ce38d7bc-be8b-4512-bb6a-345c29001956.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/2b55f4ac-d566-4fa5-ab22-4b2fd4abbb13.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/1441be67-f0b7-4a8d-804a-aaef6a6d794a.mp3
+输掉的回合	https://img.csgo.com.cn/csgostatic/csgo/98d4f59d-1813-425f-95af-79ff10bd7867.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/a379c4c8-05c5-4fd7-975f-0724522befa7.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/35c6243b-3697-4d8a-8357-3ca6442a4906.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/7057ed6c-6868-43b4-94d7-efa17aac7aa4.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/5aa7755c-4d8e-4ce3-bdf8-cfc7948f2cf8.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/507b27ac-1b9d-4f6b-97f7-ccaa4f3e6c6a.mp3
+
+[咖啡拉花
+Mocha Petal]
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/e9b99cc2-3e1e-4f05-b750-fbda5b7c1b1a.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/dd2a5ff4-fea4-4ad0-9ae9-204e49c87d16.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/76bce18b-e9d7-40cc-a0b8-f441c62b35e5.mp3
+回合开始-1	https://img.csgo.com.cn/csgostatic/csgo/e5bf1757-0128-4be3-94cb-d8b7c24b1a5d.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/8e205945-7b5a-4276-a7b0-355c5a086b01.mp3
+输掉的回合	https://img.csgo.com.cn/csgostatic/csgo/2f81dcdb-8555-457d-9633-53d3585929ab.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/34e9385c-ffcb-48fd-9e9a-c8d67d899d1a.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/fb227d5f-3656-4aea-9a37-1d6ad58e2a3c.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/c4ce981f-0857-45b0-8f9c-8b9aab031757.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/d98f85f8-2d11-4bd7-98f1-6d55e7711222.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/ab6705ee-d483-4ffc-96d1-27735eea4255.mp3
+
+[战火星空
+Astro Bellum]
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/abb39b13-432c-4415-b2a8-623736986e01.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/aac29c4a-a0c6-4a5c-bd87-37db8242806f.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/19878c65-8141-4b55-8322-b12c23747a1f.mp3
+输掉的回合	https://img.csgo.com.cn/csgostatic/csgo/39184572-58a9-44ec-9362-4610ca5890b5.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/7f8b3a14-998f-4b4c-a66e-84080085a801.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/654cfb24-d858-4137-86b9-cfa90a2bd374.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/03a88716-114e-4c43-b041-cb5a9a2b6a4b.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/afffa408-08f9-44dc-be34-d9267088a29f.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/65d0febe-fe80-449b-b25d-ddcda5acf617.mp3
+
+[征服
+Vici]
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/efdf8e63-91c2-4073-8506-76829940a776.mp3
+行动开始-2	https://img.csgo.com.cn/csgostatic/csgo/246d42fd-7015-4046-9803-55c9f2555593.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/38292158-1203-414f-a816-4f8ff106df04.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/050f202e-c374-4ffb-9c7f-11152c1c599f.mp3
+回合开始-1	https://img.csgo.com.cn/csgostatic/csgo/3a3b2e29-4270-4f74-b58a-51973b8525b3.mp3
+回合开始-2	https://img.csgo.com.cn/csgostatic/csgo/2b9ef029-01aa-4ac1-ae91-6148ba8fb852.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/624a51c3-3dd5-4163-9ae9-57043fcbaca9.mp3
+输掉的回合	https://img.csgo.com.cn/csgostatic/csgo/b83f04e1-daf8-4cdf-8493-b02af25af7f0.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/f13291d7-0dd3-4ae7-9017-e5a328ff58c7.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/19dc7b3b-ec89-45ea-b638-7138700c5cae.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/4f239ec6-96aa-4b34-a495-d886a472053e.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/d8d1cf84-f82a-460f-a1b7-c7b90e6798e9.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/55a18ba0-df1a-4b07-9ca4-f1bc5d3d8c49.mp3
+
+[《半衰期：爱莉克斯》，反叛者
+Anti-Citizen]
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/2a1399c2-85e3-4c37-a101-abae5fe0e1bd.mp3
+行动开始-2	https://img.csgo.com.cn/csgostatic/csgo/277b2df6-70d1-4d74-bd39-9f09276b651a.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/5d168d21-e041-4f06-9d05-ab9e496fd969.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/78d341d9-3986-4b39-8f6f-8bd4c331ce59.mp3
+回合开始-1	https://img.csgo.com.cn/csgostatic/csgo/1f4abbad-e144-46c5-ada2-d75e4031010b.mp3
+回合开始-2	https://img.csgo.com.cn/csgostatic/csgo/707d0290-6884-440f-a950-498e1583fe49.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/75bb0906-4b7c-420c-ba63-539e8dd92310.mp3
+输掉的回合	https://img.csgo.com.cn/csgostatic/csgo/bdff8ad1-c057-42f3-ad64-5f9c57f22987.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/e742b1b3-d2a4-40ea-b7f3-23781e28367d.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/93a12961-b210-4b7b-afa9-763132206639.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/8329338d-bf94-490c-a4ce-250d3fff602f.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/81034bb3-5885-4500-a0b6-de75b55f9711.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/a265354c-dc34-440e-abb3-33471c66b611.mp3
+
+[尘归尘
+All for Dust]
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/337ca603-301a-4f8f-9300-b162c7ac2dca.mp3
+行动开始-2	https://img.csgo.com.cn/csgostatic/csgo/d3523d1b-1258-4cd0-84f9-2ac7696ab707.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/68bfb2f6-406b-4dbe-9067-4389c5199038.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/a0cbfae7-bdb7-42a9-b878-f62edc48c90f.mp3
+回合开始-1	https://img.csgo.com.cn/csgostatic/csgo/3d6b028e-47c7-4d86-a97c-f898ccb60e62.mp3
+回合开始-2	https://img.csgo.com.cn/csgostatic/csgo/eb7d3d28-3933-4252-a38c-23dbce97805e.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/4d872a56-18f4-4034-b414-d2dfa6da038e.mp3
+输掉的回合	https://img.csgo.com.cn/csgostatic/csgo/cb7a4910-a6d2-4ed6-8012-6c38ca1ed013.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/401ee373-3b7c-4adf-a369-eb0ca5f7c590.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/d74e6329-317e-430e-866f-2fb7b24ba1b2.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/3912d007-fc15-4968-92f4-b23cc122ecc7.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/659a1c64-a4a4-4a13-ac61-01ce9896f497.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/fd97478f-1c1c-40a2-8b92-a238adcf163f.mp3
+
+[电锯·追命
+CHAIN$AW.LXADXUT.]
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/237e5f3b-c422-4660-b9df-c986a13fe91d.mp3
+行动开始-2	https://img.csgo.com.cn/csgostatic/csgo/a2e66176-cc90-432a-b86f-371516388bcc.mp3
+行动开始-3	https://img.csgo.com.cn/csgostatic/csgo/b7695657-3225-495c-b352-8a471944fee8.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/44697cf0-0446-434a-a7d4-85417881cc19.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/ef1bd4ef-4d28-499c-bd77-b91e75ec9e1f.mp3
+回合开始	https://img.csgo.com.cn/csgostatic/csgo/48de379b-a8dc-42d7-bbee-6d366edd00ad.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/5771eba4-1443-4b2d-be6e-fa0d4d83363a.mp3
+回合失败	https://img.csgo.com.cn/csgostatic/csgo/a9cb289e-69a6-48a7-88d9-f56512d2718d.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/98a54bef-5b08-4146-b15f-5954360a178e.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/d04d1a84-608a-400b-82ff-52c593b4cf6a.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/9bcab370-820e-4e0f-9b4a-57b6d96d99bd.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/ce0108c3-8779-4d7a-a4fc-3eb28d88d62c.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/176ab6ec-9726-47b8-bcce-4462f5dd2f68.mp3
+
+[黑帝斯音乐盒
+HADES MUSIC KIT]
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/1c04015a-8758-419b-89cd-008eae82004d.mp3
+行动开始-2	https://img.csgo.com.cn/csgostatic/csgo/33091bc0-7a2d-435b-93f1-9c1adbd67eb4.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/62a507be-b5f0-430d-8b08-f73bb7c77817.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/320b8516-ae49-4279-923f-fa172c118ca7.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/1d517a75-7b75-4ea0-a902-34cf4f236d6e.mp3
+输掉的回合	https://img.csgo.com.cn/csgostatic/csgo/ebc4e047-dc8a-4800-b015-c85bc43c89b7.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/b09336c1-3e7d-4224-80a0-51738122c1ce.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/5c5c7886-a2b4-41b8-9ea2-415eadce991b.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/6425e5c6-3dfa-4c89-ada7-8fa1de91417d.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/e0fa221a-329d-4fde-9661-c754b314f54f.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/bb2a624d-4145-4509-bd5d-4bc75ce6c668.mp3
+
+[痞子帮
+The Lowlife Pack]
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/047608a5-6acf-410a-935e-831d02a629a0.mp3
+行动开始-2	https://img.csgo.com.cn/csgostatic/csgo/801cc73e-7155-4cf9-adf1-722c87cab033.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/41183f0b-78a1-4dee-9047-498bf936ed1f.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/c21782c9-697f-4471-9c87-f5c3ca30f16e.mp3
+回合开始-1	https://img.csgo.com.cn/csgostatic/csgo/f411670d-d2e1-42e9-8e2b-3caffbc6cea0.mp3
+回合开始-2	https://img.csgo.com.cn/csgostatic/csgo/91f19fd2-cd29-4f88-9f04-d7da51325dbf.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/6ee6ae77-534a-4744-b4a1-a3e112435ac7.mp3
+输掉的回合	https://img.csgo.com.cn/csgostatic/csgo/caddbf04-2c38-4321-aa23-c5e28f5806d0.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/6a0ad404-0ab3-4307-a9ed-a07ef51b49dc.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/864c978e-4cf3-4f5b-97e8-03984af5f3a1.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/04db0089-169c-4a90-89b7-4508fe82d58e.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/b9cc112f-c7f3-4837-adcc-5b8325c00733.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/b2883139-489f-4b35-a99c-d5e804957f7a.mp3
+
+[新黑色电影
+Neo Noir]
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/38df415a-3dde-4805-afc9-5225d192a17d.mp3
+行动开始-2	https://img.csgo.com.cn/csgostatic/csgo/4419dd44-c1fa-4cc6-bb08-a06046f2f2c3.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/869acef2-e747-4fb3-a2ac-4e52d36bb050.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/3559735a-a036-4e9d-a066-47ff731909fe.mp3
+回合开始-1	https://img.csgo.com.cn/csgostatic/csgo/6e56406d-d7b3-4a24-aa06-288beddde605.mp3
+回合开始-2	https://img.csgo.com.cn/csgostatic/csgo/e036ad27-2d2a-4a0b-870a-92616798150d.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/0c32ffa7-2cd0-446d-904d-c9b92dccaf91.mp3
+输掉的回合	https://img.csgo.com.cn/csgostatic/csgo/0e5a9aac-2827-4ca2-b853-4967c6e26986.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/640406ab-9d59-4a9f-a35c-be213ba69976.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/1c1f3c0a-d51f-4059-8107-4e035ce626e8.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/33ccad29-6ee6-4e9c-91ab-5451bb546b89.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/dfa18067-41b7-4018-8b94-0f14936e54ad.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/8fa65190-04e2-4d36-befb-838af2299209.mp3
+
+[巴克拉姆
+Bachram]
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/austinWintory_new/austinWintory_action_begins1.mp3
+行动开始-2	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/austinWintory_new/austinWintory_action_begins2.mp3.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/austinWintory_new/austinWintory_round_ends_10.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/austinWintory_new/austinWintory_round_mvp.mp3
+回合开始-1	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/austinWintory_new/austinWintory_turn_start1.mp3
+回合开始-2	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/austinWintory_new/austinWintory_turn_start2.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/austinWintory_new/austinWintory_round_victory.mp3
+回合失败	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/austinWintory_new/austinWintory_round_failure.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/austinWintory_new/austinWintory_death_perspective.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/austinWintory_new/austinWintory_select_team.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/austinWintory_new/austinWintory_bomb_placement.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/austinWintory_new/austinWintory_countdown_bomb.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/austinWintory_new/austinWintory_main_menu.mp3
+
+[巨龙之眼
+Eye of the Dragon]
+行动开始	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/danielSadowski_new/danielSadowski_action_begins.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/danielSadowski_new/danielSadowski_round_ends_10.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/danielSadowski_new/danielSadowski_round_mvp.mp3
+回合开始	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/danielSadowski_new/danielSadowski_turn_start.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/danielSadowski_new/danielSadowski_round_victory.mp3
+回合失败	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/danielSadowski_new/danielSadowski_round_failure.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/danielSadowski_new/danielSadowski_death_perspective.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/danielSadowski_new/danielSadowski_select_team.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/danielSadowski_new/danielSadowski_bomb_placement.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/danielSadowski_new/danielSadowski_countdown_bomb.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/danielSadowski_new/danielSadowski_main_menu.mp3
+
+[枪手的卷饼卡车
+Gunman Taco Truck]
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/dren_new/dren_action_begins1.mp3
+行动开始-2	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/dren_new/dren_action_begins2.mp3
+行动开始-3	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/dren_new/dren_action_begins3.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/dren_new/dren_round_ends_10.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/dren_new/dren_round_mvp.mp3
+回合开始-1	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/dren_new/dren_turn_start1.mp3
+回合开始-2	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/dren_new/dren_turn_start2.mp3
+回合开始-3	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/dren_new/dren_turn_start3.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/dren_new/dren_round_victory.mp3
+回合失败	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/dren_new/dren_round_failure.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/dren_new/dren_death_perspective.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/dren_new/dren_select_team.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/dren_new/dren_bomb_placement.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/dren_new/dren_countdown_bomb.mp3
+主菜单-1	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/dren_new/dren_main_menu1.mp3
+主菜单-2	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/dren_new/dren_main_menu2.mp3
+
+[漂泊者
+Drifter]
+行动开始	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/mattLevine_new/mattLevine_action_begins.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/mattLevine_new/mattLevine_round_ends_10.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/mattLevine_new/mattLevine_round_mvp.mp3
+回合开始-1	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/mattLevine_new/mattLevine_turn_start1.mp3
+回合开始-2	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/mattLevine_new/mattLevine_turn_start2.mp3
+回合开始-3	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/mattLevine_new/mattLevine_turn_start3.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/mattLevine_new/mattLevine_round_victory.mp3
+回合失败	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/mattLevine_new/mattLevine_round_failure.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/mattLevine_new/mattLevine_death_perspective.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/mattLevine_new/mattLevine_select_team.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/mattLevine_new/mattLevine_bomb_placement.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/mattLevine_new/mattLevine_countdown_bomb.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/mattLevine_new/mattLevine_main_menu.mp3
+
+[大胆尝试
+Bodacious]
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/samMarshall_new/samMarshall_action_begins1.mp3
+行动开始-2	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/samMarshall_new/samMarshall_action_begins2.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/samMarshall_new/samMarshall_round_ends_10.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/samMarshall_new/samMarshall_round_mvp.mp3
+回合开始-1	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/samMarshall_new/samMarshall_turn_start1.mp3
+回合开始-2	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/samMarshall_new/samMarshall_turn_start2.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/samMarshall_new/samMarshall_round_victory.mp3
+回合失败	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/samMarshall_new/samMarshall_round_failure.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/samMarshall_new/samMarshall_death_perspective.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/samMarshall_new/samMarshall_select_team.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/samMarshall_new/samMarshall_bomb_placement.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/samMarshall_new/samMarshall_countdown_bomb.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/samMarshall_new/samMarshall_main_menu.mp3
+
+[新黑色魅影
+Neo Noir]
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/timHuling_new/timHuling_action_begins1.mp3
+行动开始-2	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/timHuling_new/timHuling_action_begins2.mp3
+行动开始-3	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/timHuling_new/timHuling_action_begins3.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/timHuling_new/timHuling_round_ends_10.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/timHuling_new/timHuling_round_mvp.mp3
+回合开始	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/timHuling_new/timHuling_turn_start.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/timHuling_new/timHuling_round_victory.mp3
+回合失败	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/timHuling_new/timHuling_round_failure.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/timHuling_new/timHuling_death_perspective.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/timHuling_new/timHuling_select_team.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/timHuling_new/timHuling_bomb_placement.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/timHuling_new/timHuling_countdown_bomb.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/timHuling_new/timHuling_main_menu.mp3
+
+[M.U.D.D. 军团
+M.U.D.D. FORCE]
+行动开始-1	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/treeAdams_new/treeAdams_benBromfield_action_begins1.mp3
+行动开始-2	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/treeAdams_new/treeAdams_benBromfield_action_begins2.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/treeAdams_new/treeAdams_benBromfield_round_ends_10.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/treeAdams_new/treeAdams_benBromfield_round_mvp.mp3
+回合开始-1	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/treeAdams_new/treeAdams_benBromfield_turn_start1.mp3
+回合开始-2	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/treeAdams_new/treeAdams_benBromfield_turn_start2.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/treeAdams_new/treeAdams_benBromfield_round_victory.mp3
+回合失败	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/treeAdams_new/treeAdams_benBromfield_round_failure.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/treeAdams_new/treeAdams_benBromfield_death_perspective.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/treeAdams_new/treeAdams_benBromfield_select_team.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/treeAdams_new/treeAdams_benBromfield_bomb_placement.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/treeAdams_new/treeAdams_benBromfield_countdown_bomb.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/treeAdams_new/treeAdams_benBromfield_main_menu.mp3
+
+[EZ4ENCE
+EZ4ENCE]
+行动开始	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/theverkkars_new/theverkkars_action_begins.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/theverkkars_new/theverkkars_round_ends_10.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/theverkkars_new/theverkkars_round_mvp.mp3
+回合开始	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/theverkkars_new/theverkkars_turn_start.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/theverkkars_new/theverkkars_round_victory.mp3
+回合失败	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/theverkkars_new/theverkkars_round_failure.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/theverkkars_new/theverkkars_death_perspective.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/theverkkars_new/theverkkars_select_team.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/theverkkars_new/theverkkars_bomb_placement.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/theverkkars_new/theverkkars_countdown_bomb.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/theverkkars_new/theverkkars_main_menu.mp3
+
+[疤王
+King, Scar]
+行动开始	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/scarlxrd_new/scarlxrd_action_begins.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/scarlxrd_new/scarlxrd_round_ends_10.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/scarlxrd_new/scarlxrd_round_mvp.mp3
+回合开始	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/scarlxrd_new/scarlxrd_turn_start.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/scarlxrd_new/scarlxrd_round_victory.mp3
+回合失败	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/scarlxrd_new/scarlxrd_round_failure.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/scarlxrd_new/scarlxrd_death_perspective.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/scarlxrd_new/scarlxrd_select_team.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/scarlxrd_new/scarlxrd_bomb_placement.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/scarlxrd_new/scarlxrd_countdown_bomb.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/scarlxrd_new/scarlxrd_main_menu.mp3
+
+[光环：士官长合集
+The Master Chief Collection]
+行动开始	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/halo_new/halo_action_begins.mp3
+回合10秒结束	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/halo_new/halo_round_ends_10.mp3
+回合MVP	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/halo_new/halo_round_mvp.mp3
+回合开始	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/halo_new/halo_turn_start.mp3
+回合胜利	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/halo_new/halo_round_victory.mp3
+回合失败	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/halo_new/halo_round_failure.mp3
+死亡视角	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/halo_new/halo_death_perspective.mp3
+选择队伍	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/halo_new/halo_select_team.mp3
+炸弹安放	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/halo_new/halo_bomb_placement.mp3
+炸弹爆炸倒计时	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/halo_new/halo_countdown_bomb.mp3
+主菜单	https://img.csgo.com.cn/csgostatic/csgo/csgomedia/halo_new/halo_main_menu.mp3
+
+[III-竞技场
+Arena]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/skog1/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/skog1/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/skog1/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/skog1/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/skog1/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/skog1/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/skog1/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/skog1/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/skog1/roundtenseccount.mp3
+
+[决心
+Backbone]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/roam/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/roam/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/roam/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/roam/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/roam/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/roam/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/roam/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/roam/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/roam/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/roam/startaction_01.mp3
+行动开始 - 2	https://gamevideo.wmupd.com/csgomedia/media/roam/startaction_02.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/roam/startround_01.mp3
+回合开始 - 2	https://gamevideo.wmupd.com/csgomedia/media/roam/startround_02.mp3
+
+[冲破藩篱
+FREE]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/hundredth/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/hundredth/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/hundredth/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/hundredth/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/hundredth/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/hundredth/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/hundredth/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/hundredth/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/hundredth/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/hundredth/startaction_01.mp3
+行动开始 - 2	https://gamevideo.wmupd.com/csgomedia/media/hundredth/startaction_02.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/hundredth/startround_01.mp3
+回合开始 - 2	https://gamevideo.wmupd.com/csgomedia/media/hundredth/startround_02.mp3
+
+[咄咄逼人
+Aggressive]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/Beartooth1/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/Beartooth1/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/Beartooth1/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/Beartooth1/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/Beartooth1/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/Beartooth1/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/Beartooth1/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/Beartooth1/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/Beartooth1/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/Beartooth1/startaction_01.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/Beartooth1/startround_01.mp3
+
+[爪哇哈瓦那放克乐
+Java Havana Funkaloo]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/lenniemoore/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/lenniemoore/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/lenniemoore/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/lenniemoore/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/lenniemoore/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/lenniemoore/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/lenniemoore/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/lenniemoore/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/lenniemoore/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/lenniemoore/startaction_01.mp3
+行动开始 - 2	https://gamevideo.wmupd.com/csgomedia/media/lenniemoore/startaction_02.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/lenniemoore/startround_01.mp3
+回合开始 - 2	https://gamevideo.wmupd.com/csgomedia/media/lenniemoore/startround_02.mp3
+
+[海绵手指
+Sponge Fingerz]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/newbeatfund/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/newbeatfund/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/newbeatfund/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/newbeatfund/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/newbeatfund/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/newbeatfund/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/newbeatfund/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/newbeatfund/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/newbeatfund/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/newbeatfund/startaction_01.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/newbeatfund/startround_01.mp3
+
+[大举入侵！
+Invasion!]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/michaelbross/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/michaelbross/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/michaelbross/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/michaelbross/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/michaelbross/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/michaelbross/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/michaelbross/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/michaelbross/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/michaelbross/roundtenseccount.mp3
+
+[就是我
+I Am]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/awolnation/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/awolnation/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/awolnation/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/awolnation/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/awolnation/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/awolnation/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/awolnation/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/awolnation/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/awolnation/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/awolnation/startaction_01.mp3
+行动开始 - 2	https://gamevideo.wmupd.com/csgomedia/media/awolnation/startaction_02.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/awolnation/startround_01.mp3
+回合开始 - 2	https://gamevideo.wmupd.com/csgomedia/media/awolnation/startround_02.mp3
+
+[II-爆头
+Headshot]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/skog2/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/skog2/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/skog2/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/skog2/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/skog2/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/skog2/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/skog2/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/skog2/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/skog2/roundtenseccount.mp3
+
+[超爆话筒
+Uber Blasto Phone]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/troelsfolmann/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/troelsfolmann/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/troelsfolmann/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/troelsfolmann/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/troelsfolmann/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/troelsfolmann/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/troelsfolmann/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/troelsfolmann/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/troelsfolmann/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/troelsfolmann/startaction_01.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/troelsfolmann/startround_01.mp3
+
+[万夫莫敌包
+Battlepack]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/proxy/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/proxy/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/proxy/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/proxy/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/proxy/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/proxy/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/proxy/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/proxy/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/proxy/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/proxy/startaction_01.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/proxy/startround_01.mp3
+
+[无人之境
+For No Mankind]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/mateomessina/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/mateomessina/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/mateomessina/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/mateomessina/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/mateomessina/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/mateomessina/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/mateomessina/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/mateomessina/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/mateomessina/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/mateomessina/startaction_01.mp3
+行动开始 - 2	https://gamevideo.wmupd.com/csgomedia/media/mateomessina/startaction_02.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/mateomessina/startround_01.mp3
+回合开始 - 2	https://gamevideo.wmupd.com/csgomedia/media/mateomessina/startround_02.mp3
+
+[圣诞之欲
+All I Want for Christmas]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/midnightriders/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/midnightriders/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/midnightriders/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/midnightriders/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/midnightriders/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/midnightriders/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/midnightriders/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/midnightriders/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/midnightriders/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/midnightriders/startaction_01.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/midnightriders/startround_01.mp3
+
+[A*D*8
+A*D*8]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/seanmurray/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/seanmurray/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/seanmurray/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/seanmurray/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/seanmurray/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/seanmurray/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/seanmurray/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/seanmurray/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/seanmurray/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/seanmurray/startaction_01.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/seanmurray/startround_01.mp3
+
+[叛乱
+Insurgency]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/robertallaire/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/robertallaire/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/robertallaire/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/robertallaire/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/robertallaire/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/robertallaire/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/robertallaire/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/robertallaire/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/robertallaire/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/robertallaire/startaction_01.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/robertallaire/startround_01.mp3
+
+[如日中天
+High Noon]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/feedme/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/feedme/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/feedme/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/feedme/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/feedme/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/feedme/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/feedme/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/feedme/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/feedme/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/feedme/startaction_01.mp3
+
+[深红突击
+Crimson Assault]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski3/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski3/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski3/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski3/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/media/danielsadowski3/skog1/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski3/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski3/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski3/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski3/roundtenseccount.mp3
+
+[GLA
+GLA]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/twinatlantic/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/twinatlantic/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/twinatlantic/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/twinatlantic/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/twinatlantic/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/twinatlantic/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/twinatlantic/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/twinatlantic/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/twinatlantic/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/twinatlantic/startaction_01.mp3
+行动开始 - 2	https://gamevideo.wmupd.com/csgomedia/media/twinatlantic/startaction_02.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/twinatlantic/startround_01.mp3
+回合开始 - 2	https://gamevideo.wmupd.com/csgomedia/media/twinatlantic/startround_02.mp3
+
+[人生何处不青山
+Life's Not Out To Get You]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/neckdeep/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/neckdeep/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/neckdeep/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/neckdeep/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/neckdeep/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/neckdeep/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/neckdeep/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/neckdeep/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/neckdeep/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/neckdeep/startaction_01.mp3
+行动开始 - 2	https://gamevideo.wmupd.com/csgomedia/media/neckdeep/startaction_02.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/neckdeep/startround_01.mp3
+回合开始 - 2	https://gamevideo.wmupd.com/csgomedia/media/neckdeep/startround_02.mp3
+
+[有为青年
+The Good Youth]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/blitzkids/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/blitzkids/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/blitzkids/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/blitzkids/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/blitzkids/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/blitzkids/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/blitzkids/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/blitzkids/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/blitzkids/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/blitzkids/startaction_01.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/blitzkids/startround_01.mp3
+
+[CSGO精彩时刻
+Moments CSGO]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/darude/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/darude/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/darude/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/darude/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/darude/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/darude/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/darude/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/darude/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/darude/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/darude/startaction_01.mp3
+行动开始 - 2	https://gamevideo.wmupd.com/csgomedia/media/darude/startaction_02.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/darude/startround_01.mp3
+回合开始 - 2	https://gamevideo.wmupd.com/csgomedia/media/darude/startround_02.mp3
+
+[令人发指
+Disgusting]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/Beartooth2/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/Beartooth2/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/Beartooth2/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/Beartooth2/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/Beartooth2/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/Beartooth2/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/Beartooth2/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/Beartooth2/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/Beartooth2/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/Beartooth2/startaction_01.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/Beartooth2/startround_01.mp3
+
+[雄狮之口
+Lion's Mouth]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/ianhultquist/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/ianhultquist/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/ianhultquist/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/ianhultquist/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/ianhultquist/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/ianhultquist/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/ianhultquist/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/ianhultquist/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/ianhultquist/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/ianhultquist/startaction_01.mp3
+行动开始 - 2	https://gamevideo.wmupd.com/csgomedia/media/ianhultquist/startaction_02.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/ianhultquist/startround_01.mp3
+回合开始 - 2	https://gamevideo.wmupd.com/csgomedia/media/ianhultquist/startround_02.mp3
+
+[永恒之钻
+Diamonds]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/mordfustang/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/mordfustang/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/mordfustang/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/mordfustang/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/mordfustang/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/mordfustang/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/mordfustang/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/mordfustang/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/mordfustang/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/mordfustang/startaction_01.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/mordfustang/startround_01.mp3
+
+[8位音乐盒
+The 8-Bit Kit]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski1/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski1/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski1/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski1/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski1/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski1/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski1/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski1/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski1/roundtenseccount.mp3
+
+[有害物质环境
+Environments]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/kellybailey/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/kellybailey/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/kellybailey/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/kellybailey/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/kellybailey/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/kellybailey/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/kellybailey/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/kellybailey/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/kellybailey/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/kellybailey/startaction_01.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/kellybailey/startround_01.mp3
+
+[莫洛托夫烈火
+MOLOTOV]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/kiTheory/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/kiTheory/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/kiTheory/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/kiTheory/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/kiTheory/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/kiTheory/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/kiTheory/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/kiTheory/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/kiTheory/roundtenseccount.mp3
+
+[塔罗斯的法则
+The Talos Principle]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/damjanmravunac/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/damjanmravunac/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/damjanmravunac/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/damjanmravunac/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/damjanmravunac/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/damjanmravunac/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/damjanmravunac/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/damjanmravunac/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/damjanmravunac/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/damjanmravunac/startaction_01.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/damjanmravunac/startround_01.mp3
+
+[迈阿密热线
+Hotline Miami]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/miami/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/miami/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/miami/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/miami/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/miami/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/miami/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/miami/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/miami/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/miami/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/miami/startaction_01.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/miami/startround_01.mp3
+
+[同型节奏
+IsoRhythm]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/mattlange/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/mattlange/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/mattlange/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/mattlange/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/mattlange/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/mattlange/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/mattlange/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/mattlange/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/mattlange/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/mattlange/startaction_01.mp3
+
+[金属
+Metal]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/skog3/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/skog3/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/skog3/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/skog3/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/skog3/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/skog3/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/skog3/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/skog3/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/skog3/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/skog3/startaction_01.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/skog3/startround_01.mp3
+
+[地球末夜
+LNOE]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/sasha/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/sasha/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/sasha/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/sasha/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/sasha/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/sasha/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/sasha/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/sasha/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/sasha/roundtenseccount.mp3
+
+[尖峰时刻
+Sharpened]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/noisia/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/noisia/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/noisia/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/noisia/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/noisia/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/noisia/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/noisia/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/noisia/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/noisia/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/noisia/startaction_01.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/noisia/startround_01.mp3
+
+[骷髅爆破
+Death's Head Demolition]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/dren/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/dren/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/dren/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/dren/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/dren/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/dren/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/dren/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/dren/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/dren/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/dren/startaction_01.mp3
+行动开始 - 2	https://gamevideo.wmupd.com/csgomedia/media/dren/startaction_02.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/dren/startround_01.mp3
+回合开始 - 2	https://gamevideo.wmupd.com/csgomedia/media/dren/startround_02.mp3
+
+[沙漠之焰
+Desert Fire]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/austinwintory/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/austinwintory/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/austinwintory/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/austinwintory/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/austinwintory/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/austinwintory/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/austinwintory/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/austinwintory/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/austinwintory/roundtenseccount.mp3
+行动开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/austinwintory/startaction_01.mp3
+回合开始 - 1	https://gamevideo.wmupd.com/csgomedia/media/austinwintory/startround_01.mp3
+
+[绝对统御
+Total Domination]
+主菜单	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski2/mainmenu.mp3
+回合MVP	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski2/roundmvpanthem.mp3
+回合胜利	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski2/wonround.mp3
+选择队伍	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski2/chooseteam.mp3
+炸弹爆炸倒计时	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski2/bombtenseccount.mp3
+炸弹安放	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski2/bombplanted.mp3
+输掉的回合	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski2/lostround.mp3
+死亡视角	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski2/deathcam.mp3
+回合10秒结束	https://gamevideo.wmupd.com/csgomedia/media/danielsadowski2/roundtenseccount.mp3
