@@ -28,3 +28,15 @@ Counter-Strike（CS:GO/CS2）音乐盒（Music Kit）MP3 成品库，含一个�
 
 ## 测试状态
 download_mp3.py 通过 py_compile 语法检查（syntax_ok）。
+
+
+## 许可
+
+- MIT-0，见 [LICENSE](LICENSE)。
+- MIT No Attribution —— 无署名义务。
+
+## 快速开始
+
+- 安装依赖：`pip install -r requirements.txt`
+
+<!-- 补写记账：csmusic · 本段由 allin 仓 tools/publish_area_readme_sections.py 依据本仓自身事实补写 -->
